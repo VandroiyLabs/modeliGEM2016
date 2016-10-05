@@ -1,0 +1,3 @@
+[submodule "platemate"]
+	path = platemate
+	url = https://github.com/VandroiyLabs/platemate
